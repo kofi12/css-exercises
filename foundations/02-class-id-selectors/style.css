@@ -1,0 +1,19 @@
+.odd{
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#differ{
+    font-size: 24px;
+}
+
+#num2{
+    font-size: 36px;
+    color:#0000ff;
+}
+
+#num4{
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
